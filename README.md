@@ -6,5 +6,5 @@
 * This tool still probably has bugs and is a little complicated to use.
 
 # Setup
-* You can go towards the releases page of this repository (i recommend doing it after reading this document as the **Usage** section is very crucial in guiding you on how to use this tool https://github.com/GrowtopiaFli/yad/releases.
+* You can go towards the releases page of this repository (i recommend doing it after reading this document as the **Usage** section is very crucial in guiding you on how to use this tool. https://github.com/GrowtopiaFli/yad/releases
 * 
