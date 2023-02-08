@@ -11,10 +11,11 @@
 * You can go towards the releases page of this repository (i recommend doing it after reading this document as the **Usage** section is very crucial in guiding you on how to use this tool. (https://github.com/GrowtopiaFli/yad/releases)
 * Make sure you know if your computer is either 32 bit or 64 bit so that you know what file you should download.
 * The .hl file in the releases page is a file you can use on hashlink which is a haxe virtual machine (https://hashlink.haxe.org) you can search about running .hl files with hashlink online.
-* Since i use a **Windows** computer, i have not exported an executable (and yes, anything you can run is called an executable, not only `.exe` files) for **Linux** and **Mac** so if you want to run the tool, you could use something like wine, use hashlink or read the compile section of this document. (though keep in mind that i have no idea how to compile with **Linux** and **Mac** so if you DO encounter issues, make sure to report it here)
+* Since i use a **Windows** computer, i have not exported an executable (and yes, anything you can run is called an executable, not only `.exe` files) for **Linux** and **Mac** so if you want to run the tool, you could use something like wine, use hashlink or read the **Compiling** section of this document. (though keep in mind that i have no idea how to compile with **Linux** and **Mac** so if you DO encounter issues, make sure to report it here)
 * You can just simply run the tool like a normal application.
 
 # Usage
+* Run the tool (on hashlink, do `hl YAD.hl`)
 * Just look at whatever the application is saying and comply.
 * You can search up online on how to use `yt-dlp.conf` which is the config file for `yt-dlp`.
 * `yad.videos` has a format like this:
@@ -40,3 +41,11 @@
   * You can add as many channels as you want.
   * The channel is NOT A LINK. It must start with either `@`, `user/`, or `channel/`. It automatically adds `https://www.youtube.com/` and `/videos` to it so DON'T PUT A LINK. Put something like `user/UC8Ujq8PBm0MWraaXd8MsIAQ` and NOT `https://www.youtube.com/user/UC8Ujq8PBm0MWraaXd8MsIAQ/videos`.
 * If the tool fails to download an archived youtube video, then it automatically starts downloading an available youtube video with that link/id.
+
+# Compiling
+* Install **Haxe** from https://haxe.org/download.
+* Install **HXCPP** by running `haxelib install hxcpp`.
+* Download and extract this source code.
+* If you use 64bit *Windows**, run `haxe win64.hxml`.
+* If you use 32bit **Windows**, run `haxe win32.hxml`.
+* If you use **Linux**, run `haxe linux.hxml`.
