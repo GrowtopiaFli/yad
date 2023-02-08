@@ -9,7 +9,7 @@
 
 # Setup
 * You can go towards the releases page of this repository. I recommend doing it after reading this document as the **Usage** section is very crucial in guiding you on how to use this tool. (https://github.com/GrowtopiaFli/yad/releases)
-* After downloading, extract the `.zip` file. (if you don't know how, you can simply search on Youtube or on Google regarding on how you can)
+* After downloading, extract the `.zip` file. (if you don't know how, you can simply search on Youtube or on Google regarding how you can)
 * Make sure you know if your computer is either 32 bit or 64 bit (i don't know much about arm so yeah) so that you know what file you should download.
 * The .hl file in the releases page is a file you can use on hashlink which is a haxe virtual machine (https://hashlink.haxe.org) you can search about running .hl files with hashlink online.
 * Since i use a **Windows** computer, i have not exported an executable (and yes, anything you can run is called an executable, not only `.exe` files) for **Linux** and **Mac** so if you want to run the tool, you could use something like wine, use hashlink or read the **Compiling** section of this document. (though keep in mind that i have no idea how to compile with **Linux** and **Mac** so if you DO encounter issues, make sure to report it here)
