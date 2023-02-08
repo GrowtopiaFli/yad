@@ -17,7 +17,7 @@
 # Usage
 * Just look at whatever the application is saying and comply.
 * You can search up online on how to use `yt-dlp.conf` which is the config file for `yt-dlp`.
-* `yad.videos` has a format like this:
+* `yad.videos` has a format like this: \
   ```
   VIDEO_TITLE_1
   VIDEO_ID_1
