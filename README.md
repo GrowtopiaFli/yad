@@ -31,4 +31,12 @@
   VIDEO_TITLE_3
   VIDEO_ID_3
   ```
+* `yad.channels` has a format like this:
+  ```
+  CHANNEL_1
+  CHANNEL_2
+  CHANNEL_3
+  ```
+  * You can add as many channels as you want.
+  * The channel is NOT A LINK. It must start with either `@`, `user/`, or `channel/`. It automatically adds `https://www.youtube.com/` and `/videos` to it so DON'T PUT A LINK. Put something like `user/UC8Ujq8PBm0MWraaXd8MsIAQ` and NOT `https://www.youtube.com/user/UC8Ujq8PBm0MWraaXd8MsIAQ/videos`.
 * If the tool fails to download an archived youtube video, then it automatically starts downloading an available youtube video with that link/id.
