@@ -17,7 +17,10 @@
 # Usage
 * Just look at whatever the application is saying and comply.
 * You can search up online on how to use `yt-dlp.conf` which is the config file for `yt-dlp`.
-* `yad.videos` has a format like this: \
+* `yad.videos` has a format like this:
+  * You can add as many videos as you want.
+  * The video title is the text you want the tool to show on screen when it asks which video you want to download.
+  * The video id is the id of the video AND NOT THE VIDEO LINK. It is 11 characters long which is something like dOZ9NSo1azY and NOT https://www.youtube.com/watch?v=dOZ9NSo1azY. (Just get the 11 characters after `watch?v=`)
   ```
   VIDEO_TITLE_1
   VIDEO_ID_1
@@ -28,6 +31,4 @@
   VIDEO_TITLE_3
   VIDEO_ID_3
   ```
-  * You can add as many videos as you want.
-  * lol
 * If the tool fails to download an archived youtube video, then it automatically starts downloading an available youtube video with that link/id.
