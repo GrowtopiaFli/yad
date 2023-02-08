@@ -1,0 +1,4 @@
+-cpp win64
+-D HXCPP_M64
+-cp source
+-main Main

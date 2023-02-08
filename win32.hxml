@@ -1,0 +1,4 @@
+-cpp win32
+-D HXCPP_M32
+-cp source
+-main Main
