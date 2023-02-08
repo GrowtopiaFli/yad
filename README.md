@@ -17,4 +17,6 @@
 # Usage
 * Just look at whatever the application is saying and comply.
 * You can search up online on how to use `yt-dlp.conf` which is the config file for `yt-dlp`.
+* `yad.videos` has a format like this: \
+lol
 * If the tool fails to download an archived youtube video, then it automatically starts downloading an available youtube video with that link/id.
