@@ -46,6 +46,6 @@
 * Install **Haxe** from https://haxe.org/download.
 * Install **HXCPP** by running `haxelib install hxcpp`.
 * Download and extract this source code.
-* If you use 64bit *Windows**, run `haxe win64.hxml`.
+* If you use 64bit **Windows**, run `haxe win64.hxml`.
 * If you use 32bit **Windows**, run `haxe win32.hxml`.
 * If you use **Linux**, run `haxe linux.hxml`.
