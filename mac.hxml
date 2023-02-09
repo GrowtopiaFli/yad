@@ -1,5 +1,6 @@
 
 -cpp mac
+-D mac
 -cp source
 -main Main
--D mac
+
