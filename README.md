@@ -40,7 +40,7 @@
   CHANNEL_3
   ```
   * You can add as many channels as you want.
-  * The channel is NOT A LINK. It must start with either `@`, `user/`, or `channel/`. It automatically adds `https://www.youtube.com/` and `/videos` to it so DON'T PUT A LINK. Put something like `user/UC8Ujq8PBm0MWraaXd8MsIAQ` and NOT `https://www.youtube.com/user/UC8Ujq8PBm0MWraaXd8MsIAQ/videos`.
+  * The channel is NOT A LINK. It must start with either `@`, `c/`, or `channel/`. It automatically adds `https://www.youtube.com/` and `/videos` to it so DON'T PUT A LINK. Put something like `channel/UC8Ujq8PBm0MWraaXd8MsIAQ` and NOT `https://www.youtube.com/channel/UC8Ujq8PBm0MWraaXd8MsIAQ/videos`.
 * If the tool fails to download an archived youtube video, then it automatically starts downloading an available youtube video with that link/id.
 
 # Compiling
