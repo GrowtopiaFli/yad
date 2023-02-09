@@ -19,7 +19,7 @@ class Main
 	
 	public static var terminateChars:Array<Int> = [3, 13, 32];
 	
-	public static var failText:String = "Try again later or recheck your internet, and if the issue still persists then it is sadly not possible to your requested action";
+	public static var failText:String = "Try again later or recheck your internet, and if the issue still persists then it is sadly not possible to do your requested action";
 	public static var quitText:String = "Press Enter/Space To Exit This Program...";
 	
 	public function new() {}
