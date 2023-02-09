@@ -46,7 +46,7 @@
 # Compiling
 * Install **Haxe** from https://haxe.org/download.
 * Install **HXCPP** by running `haxelib install hxcpp`.
-* For Windows, you need to install Visual Studio Community 2019. While installing VSC, don't click on any of the options to install workloads. Instead, go to the individual components tab and choose the following:
+* For Windows, you need to install Visual Studio Community 2019 (https://visualstudio.microsoft.com/downloads). While installing VSC, don't click on any of the options to install workloads. Instead, go to the individual components tab and choose the following:
   * MSVC v142 - VS 2019 C++ x64/x86 build tools
   * Windows SDK (10.0.17763.0)
 * Download and extract this source code.
