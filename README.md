@@ -52,5 +52,5 @@
 * Download and extract this source code.
 * If you use 64bit **Windows**, run `haxe win64.hxml`.
 * If you use 32bit **Windows**, run `haxe win32.hxml`.
-* If you use a **Mac**, run `haxe mac.hxml`.
+* If you use a **Mac**, run `haxe mac.hxml`. (added by https://github.com/JonnycatMeow)
 * If you use **Linux**, run `haxe linux.hxml`.
